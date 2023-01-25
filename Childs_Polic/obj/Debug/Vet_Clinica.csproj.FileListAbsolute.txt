@@ -1,0 +1,70 @@
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\bin\Debug\Vet_Clinica.exe.config
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\bin\Debug\Vet_Clinica.exe
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\bin\Debug\Vet_Clinica.pdb
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.csproj.AssemblyReference.cache
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.csproj.SuggestedBindingRedirects.cache
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.Main_Menu.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.Properties.Resources.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.csproj.GenerateResource.cache
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.csproj.CoreCompileInputs.cache
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.exe
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.pdb
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.Client_Login.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.Doctor_Login.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.Client_Rigistration.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\bin\Debug\MySql.Data.dll
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\bin\Debug\Google.Protobuf.dll
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\bin\Debug\ZstdNet.dll
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\bin\Debug\System.Buffers.dll
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\bin\Debug\MySql.Data.xml
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.exe.config
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.csproj.CopyComplete
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.Client_Cabinet.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.Pet_Registration.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.BookDoctor.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.Doctor_Cabinet.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.Doctor_Reception.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.Add_Analysis.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.Change_Analysis.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.ShowAll.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Applic\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.CardForm.resources
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\bin\Debug\Vet_Clinica.exe.config
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\bin\Debug\Vet_Clinica.exe
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\bin\Debug\Vet_Clinica.pdb
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\bin\Debug\ZstdNet.dll
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.exe.config
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.exe
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Vet_Clinica.pdb
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Childs_Polic.Add_Analysis.resources
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Childs_Polic.BookDoctor.resources
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Childs_Polic.CardForm.resources
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Childs_Polic.Change_Analysis.resources
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Childs_Polic.Client_Cabinet.resources
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Childs_Polic.Client_Login.resources
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Childs_Polic.Client_Rigistration.resources
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Childs_Polic.Doctor_Cabinet.resources
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Childs_Polic.Doctor_Login.resources
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Childs_Polic.Doctor_Reception.resources
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Childs_Polic.Main_Menu.resources
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Childs_Polic.ShowAll.resources
+C:\Users\ASUS\Desktop\Vet_Clinica\Vet_Clinica\obj\Debug\Childs_Polic.Child_Registration.resources
